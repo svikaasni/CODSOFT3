@@ -1,5 +1,15 @@
 # Image Captioning AI
 
+---
+
+- NAME : S VIKAASNI
+- COMPANY : CodSoft
+- ID : CS25RY74929
+- DOMAIN : Artificial Intelligence
+- TASK NO : Task 3
+
+---
+
 This project combines Computer Vision and Natural Language Processing to generate captions for images.
 
 ## Technologies Used
